@@ -19,4 +19,4 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 Run `gatsby develop` in the terminal to start the dev site.
 
 ## Attribution
-ChangoMan - https://html5up.net/license for the Website theme.
+@ChangoMan - https://html5up.net/license for the Website theme.
