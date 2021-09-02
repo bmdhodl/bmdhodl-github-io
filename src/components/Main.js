@@ -30,7 +30,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Company Performance</h2>
           <span className="image main">
-            <img src=https://datawrapper.dwcdn.net/WIIcZ/1/ alt="" />
+            <img src={pic01} alt="" />
           </span>
           <p>
             Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
