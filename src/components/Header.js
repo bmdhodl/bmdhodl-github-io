@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>BMD HODL</h1>
         <p>
-          An investment company specializing in Crypto Assets through the power of algorithmic trading.
+          An investment company specializing in Crypto Assets through the power of algorithmic trading
         </p>
       </div>
     </div>
@@ -22,7 +22,7 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            Intro
+            Company Performance
           </button>
         </li>
         <li>
