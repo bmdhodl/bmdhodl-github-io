@@ -28,9 +28,9 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">Company Performance</h2>
           <span className="image main">
-            <img src={pic01} alt="" />
+            <img src=https://datawrapper.dwcdn.net/WIIcZ/1/ alt="" />
           </span>
           <p>
             Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
